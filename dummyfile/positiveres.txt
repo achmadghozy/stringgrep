@@ -1,0 +1,47 @@
+          <xref object_id="2" screen="pp_area_scroll_bar">
+            <object id="21877" ref_id="2">
+              <component id="0">
+                <property name="position" x="286" y="0"/>
+                <property name="size" x="30" y="152"/>
+              </component>
+              <object id="239" ref_id="239">
+                <object id="24836" ref_id="237">
+                  <component id="2">
+                    <property name="type" value="3072"/>
+                    <component id="2">
+                      <property name="scrollable-object-id" value="21878"/>
+                      <property name="amount" value="1"/>
+                      <property name="amount-coefficient" value="0.25"/>
+                    </component>
+                  </component>
+                </object>
+                <object id="240" ref_id="240"/>
+                <object id="24837" ref_id="236">
+                  <component id="2">
+                    <property name="type" value="3072"/>
+                    <component id="2">
+                      <property name="scrollable-object-id" value="21878"/>
+                      <property name="amount" value="1"/>
+                      <property name="amount-coefficient" value="0.25"/>
+                    </component>
+                  </component>
+                  <component id="5">
+                    <property name="type" value="41"/>
+                  </component>
+                </object>
+              </object>
+              <object id="241" ref_id="241">
+                <object id="243" ref_id="243"/>
+                <object id="24838" ref_id="238">
+                  <component id="0">
+                    <property name="size" x="6" y="74"/>
+                  </component>
+                  <component id="1">
+                    <property name="scrollable-object-id" value="21878"/>
+                    <property height="74" name="rect" width="6" x="0" y="0"/>
+                  </component>
+                </object>
+                <object id="242" ref_id="242"/>
+              </object>
+            </object>
+          </xref>

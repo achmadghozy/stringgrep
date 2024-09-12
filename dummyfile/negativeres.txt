@@ -1,0 +1,29 @@
+            <xref object_id="2" screen="pp_area_scroll_bar">
+              <object id="22760" ref_id="2">
+                <component id="0">
+                  <property name="position" x="348" y="0"/>
+                  <property name="size" x="32" y="166"/>
+                </component>
+                <object id="22761" ref_id="239">
+                  <object id="22762" ref_id="295">
+                    <component id="3">
+                      <component id="1">
+                        <property name="scrollable-object-id" value="21837"/>
+                      </component>
+                    </component>
+                  </object>
+                  <object id="22765" ref_id="238">
+                    <component id="1">
+                      <property name="scrollable-object-id" value="21837"/>
+                    </component>
+                  </object>
+                  <object id="22764" ref_id="294">
+                    <component id="3">
+                      <component id="1">
+                        <property name="scrollable-object-id" value="21837"/>
+                      </component>
+                    </component>
+                  </object>
+                </object>
+              </object>
+            </xref>
